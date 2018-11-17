@@ -15,21 +15,21 @@ The six possible exploits are:
 
 Each version of the site has been given two of the six vulnerabilities. (In other words, all six of the exploits should be assignable to one of the sites.)
 
-## Blue
+Blue
 
 Vulnerability #1: Session Hijacking
-
+(Session_Hijacking_Blue_Site.gif)
 Vulnerability #2: SQLI
 
 
-## Green
+Green
 
 Vulnerability #1: User Enumeration
 
 Vulnerability #2: XSS
 
 
-## Red
+Red
 
 Vulnerability #1: IDOR
 
