@@ -18,7 +18,9 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Blue
 
 Vulnerability #1: Session Hijacking
+
 ![](Session_Hijacking_Blue_Site.gif)
+
 Vulnerability #2: SQLI
 
 
