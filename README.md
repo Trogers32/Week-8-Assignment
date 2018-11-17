@@ -23,19 +23,28 @@ Vulnerability #1: Session Hijacking
 
 Vulnerability #2: SQLI
 
+![](SQLI_Blue_Site.gif)
 
 Green
 
 Vulnerability #1: User Enumeration
 
+![](User_Enumeration_Green_Site.gif)
+
 Vulnerability #2: XSS
+
+![](XSS_Vulnerability_Green_Site.gif)
 
 
 Red
 
 Vulnerability #1: IDOR
 
+![](IDOR_Red_Site.gif)
+
 Vulnerability #2: CSRF
+
+![](CSRF_Red_Site.gif)
 
 
 ## Notes
