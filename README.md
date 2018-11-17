@@ -35,6 +35,10 @@ Vulnerability #2: XSS
 
 ![](XSS_Vulnerability_Green_Site.gif)
 
+XSS Bonus Challenge:
+
+![](XSS_Bonus_Green_Site.gif)
+
 
 Red
 
