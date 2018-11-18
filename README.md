@@ -28,6 +28,7 @@ Vulnerability #2: SQLI
 ## Green
 
 Vulnerability #1: User Enumeration
+"Login unsuccessful" text changes to non-bold when trying a username that doesn't exist.
 
 ![](User_Enumeration_Green_Site.gif)
 
