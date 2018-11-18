@@ -53,4 +53,4 @@ Vulnerability #2: CSRF
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+The CSRF Vulnerability was the most difficult and took quite a few tries to finally finish. Tried building and commenting html forms and scripts in the contact section, but didn't get any decent results. Finally made a mock link and used that to run the desired CSRF code.
